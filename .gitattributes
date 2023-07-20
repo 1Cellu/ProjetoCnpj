@@ -2,9 +2,8 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-ProjectCnpj/build* linguist-vendored
-ProjectCnpj/env* linguist-vendored
-ProjectCnpj/dist* linguist-vendored
+* linguist-vendored
+*.py linguist-vendored=false
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
